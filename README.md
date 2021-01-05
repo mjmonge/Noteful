@@ -1,1 +1,1 @@
-# Noteful
+# Noteful App
